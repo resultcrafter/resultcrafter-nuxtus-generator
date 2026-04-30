@@ -67,8 +67,8 @@ export function createPage(
 		templateFolder = path.join(
 			process.cwd(),
 			"node_modules",
-			"@resultcrafter",
-			"nuxtus-generator",
+			"@nuxtus",
+			"generator",
 			"dist",
 			"templates"
 		)
